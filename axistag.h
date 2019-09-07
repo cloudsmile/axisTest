@@ -7,6 +7,9 @@
 #include <QObject>
 #include "qcustomplot.h"
 
+
+
+
 class AxisTag : public QObject
 {
     Q_OBJECT
